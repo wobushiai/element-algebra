@@ -1,0 +1,12 @@
+# GitHub Pages configuration
+
+# Enable GitHub Pages
+name: Element Algebra
+description: 从零开始的代数几何教科书
+version: 1.0.0
+
+# Build and deployment settings
+build:
+  build_dir: .
+  html: true
+  jekyll: false
